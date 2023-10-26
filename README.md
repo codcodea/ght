@@ -1,5 +1,5 @@
-## ght
-Github Actions Test
+## Github Actions
+This file serve as a example document to test Github Actions. 
 
 ## This is a new branch
-Create a new branch and pull request to test Githuv Actions [push] event
+A new branch with and pull request is created to test the Github Actions [push] event
